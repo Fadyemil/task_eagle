@@ -1,5 +1,6 @@
 {
-    "en":{
+    "en": {
+        "_comment": "Add more translations here. Example: 'privacy_policy': 'Privacy Policy'",
         "welcome": "Welcome to our website!",
         "about": "About us",
         "contact": "Contact us"
