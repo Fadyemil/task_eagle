@@ -1,0 +1,8 @@
+# Navigate to your project directory
+cd path/to/your/project
+
+# Ensure you are on the main branch (or the branch you want to pull updates to)
+git checkout main
+
+# Pull the latest updates from the remote repository and merge them into the current branch
+git pull origin main
